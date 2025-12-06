@@ -19,7 +19,7 @@
 
 
   <img src="https://stats-plum-nine.vercel.app/api?username=raptr45&show_icons=true&theme=github_dark_dimmed&bg_color=15,0e141b,082c42&hide_border=true&hide_rank=false&rank_icon=github&cache_seconds=3600" height="190">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raptr45&langs_count=8&count_private=false&layout=compact&theme=github_dark_dimmed&bg_color=45,082c42,0e141b&hide_border=true&hide=scss&cache_seconds=3600">
+  <img src="http://github-readme-stats-kappa-swart-31.vercel.app/api/top-langs/?username=raptr45&langs_count=8&count_private=false&layout=compact&theme=github_dark_dimmed&bg_color=45,082c42,0e141b&hide_border=true&hide=scss&cache_seconds=3600">
 
   </div>
 
