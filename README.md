@@ -13,7 +13,7 @@
 
 [<img src="badges/linkedin-abidalwassie-0077B5.svg" alt="LinkedIn" height="30">](https://www.linkedin.com/in/abidalwassie/)
 [<img src="https://img.shields.io/badge/@oneManDev-FF0000?style=flat&logo=youtube&logoColor=white" alt="YouTube" height="30">](https://youtube.com/@oneManDev)
-[<img src="badges/website-416bff.svg" alt="Website" height="30">](https://abidalwassie.netlify.app/)
+[<img src="badges/website-416bff.svg" alt="Website" height="30">](https://abidalwassie.dev/)
 [<img src="https://img.shields.io/badge/abidalwassie@gmail.com-EA4335?style=flat&logo=Gmail&logoColor=FFFFFF" alt="Email" height="30">](mailto:abidalwassie@gmail.com)
 &nbsp;
 
