@@ -3,10 +3,10 @@
 
   <br/>
 
-  <a href="https://www.linkedin.com/in/abidalwassie/" target="_blank"><img src="badges/linkedin-abidalwassie-0077B5.svg" alt="LinkedIn" height="45"></a>
-  <a href="https://youtube.com/@oneManDev" target="_blank"><img src="https://img.shields.io/badge/@oneManDev-FF0000?style=flat&logo=youtube&logoColor=white" alt="YouTube" height="45"></a>
-  <a href="https://abidalwassie.dev/" target="_blank"><img src="badges/website-416bff.svg" alt="Website" height="45"></a>
-  <a href="mailto:abidalwassie@gmail.com"><img src="https://img.shields.io/badge/abidalwassie@gmail.com-EA4335?style=flat&logo=Gmail&logoColor=FFFFFF" alt="Email" height="45"></a>
+  <a href="https://www.linkedin.com/in/abidalwassie/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://youtube.com/@oneManDev" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"></a>
+  <a href="https://abidalwassie.dev/" target="_blank"><img src="https://img.shields.io/badge/Website-416BFF?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"></a>
+  <a href="mailto:abidalwassie@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </div>
 
 ---
@@ -67,16 +67,16 @@
       <img src="https://img.shields.io/badge/Zod-3068B7?style=for-the-badge&logo=zod&logoColor=white" alt="Zod">
       <br/>
       <img src="https://img.shields.io/badge/Better_Auth-000000?style=for-the-badge&logo=betterauth&logoColor=white" alt="Better Auth">
-      <!-- <img src="https://img.shields.io/badge/Lucia-5865F2?style=for-the-badge&logo=lucia&logoColor=white" alt="Lucia"> -->
       <img src="https://img.shields.io/badge/Auth0-EB5424?style=for-the-badge&logo=auth0&logoColor=white" alt="Auth0">
       <br/>
       <img src="https://img.shields.io/badge/React_Hook_Form-EC5990?style=for-the-badge&logo=reacthookform&logoColor=white" alt="React Hook Form">
     </td>
     <td align="center" width="50%" valign="top">
       <h3>☁️ Cloud, Deploy & Testing</h3>
-      <img src="https://raw.githubusercontent.com/vquix/svg-badges/refs/heads/main/AWS-262e3b.svg" alt="AWS" height="35">
-      <img src="https://raw.githubusercontent.com/vquix/svg-badges/refs/heads/main/GCP-001d35.svg" alt="GCP" height="35">
-      <img src="https://raw.githubusercontent.com/vquix/svg-badges/refs/heads/main/Azure-262e3b.svg" alt="Azure" height="35">
+      <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS">
+      <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="GCP">
+      <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure">
+      <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase">
       <br/>
       <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel">
       <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloudflare">
