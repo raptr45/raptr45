@@ -3,7 +3,7 @@
 
   <br/>
 
-  <a href="https://www.linkedin.com/in/abidalwassie/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/abidalwassie/" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin7&logoColor=white" alt="LinkedIn"></a>
   <a href="https://youtube.com/@oneManDev" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"></a>
   <a href="https://abidalwassie.dev/" target="_blank"><img src="https://img.shields.io/badge/Website-416BFF?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"></a>
   <a href="mailto:abidalwassie@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
@@ -66,9 +66,9 @@
     </td>
     <td align="center" width="50%" valign="top">
       <h3>☁️ Cloud & Tools</h3>
-      <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS">
+      <img src="https://custom-icon-badges.demolab.com/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS">
       <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="GCP">
-      <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure">
+      <img src="https://custom-icon-badges.demolab.com/badge/-Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure">
       <br/>
       <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase">
       <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel">
