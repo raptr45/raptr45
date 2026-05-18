@@ -24,7 +24,7 @@
       <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js">
       <br/>
       <img src="https://img.shields.io/badge/TanStack_Ecosystem-000000?style=for-the-badge&logo=tanstack&logoColor=white" alt="TanStack">
-      <img src="https://img.shields.io/badge/Zustand-443E38?style=for-the-badge&logo=zustand&logoColor=white" alt="Zustand">
+      <img src="https://custom-icon-badges.demolab.com/badge/Zustand-443E38?style=for-the-badge&logo=zustand&logoColor=white" alt="Zustand">
       <img src="https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="Redux">
       <br/>
       <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native">
