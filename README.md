@@ -16,64 +16,89 @@
 </div>
 
 <table align="center" width="100%">
+  <!-- Row 1: Frontend & Backend -->
   <tr>
     <td align="center" width="50%" valign="top">
       <h3>💻 Frontend & Mobile</h3>
       <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
       <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
       <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js">
-      <br/>
+      <!-- <br/> -->
       <img src="https://img.shields.io/badge/TanStack_Ecosystem-000000?style=for-the-badge&logo=tanstack&logoColor=white" alt="TanStack">
       <img src="https://custom-icon-badges.demolab.com/badge/Zustand-211e1b?style=for-the-badge&logo=zustand3&logoColor=white" alt="Zustand">
-      <img src="https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="Redux">
-      <br/>
+      <!-- <img src="https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="Redux"> -->
+      <!-- <br/> -->
       <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native">
       <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" alt="Expo">
       <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind">
-      <br/>
+      <!-- <br/> -->
       <img src="https://img.shields.io/badge/Shadcn/UI-000000?style=for-the-badge&logo=shadcnui&logoColor=white" alt="Shadcn">
-      <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" alt="Framer Motion">
+      <!-- <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" alt="Framer Motion"> -->
+      <!-- <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"> -->
     </td>
     <td align="center" width="50%" valign="top">
       <h3>⚙️ Backend & Databases</h3>
       <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
       <img src="https://img.shields.io/badge/Nest.js-ea2860?style=for-the-badge&logo=nestjs&logoColor=white" alt="Nest.js">
       <img src="https://img.shields.io/badge/Fastify-202020?style=for-the-badge&logo=fastify&logoColor=white" alt="Fastify">
-      <br/>
+      <!-- <br/> -->
       <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma">
       <img src="https://img.shields.io/badge/Drizzle-C5F74F?style=for-the-badge&logo=drizzle&logoColor=000000" alt="Drizzle ORM">
       <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express">
-      <br/>
+      <!-- <br/> -->
       <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
       <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
       <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis">
-      <br/>
+      <!-- <br/> -->
       <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase">
       <img src="https://img.shields.io/badge/Convex-F04438?style=for-the-badge&logo=convex&logoColor=white" alt="Convex">
     </td>
   </tr>
+  <!-- Row 2: APIs & Cloud -->
   <tr>
     <td align="center" width="50%" valign="top">
       <h3>🔐 APIs & Authentication</h3>
       <img src="https://img.shields.io/badge/tRPC-398CCB?style=for-the-badge&logo=trpc&logoColor=white" alt="tRPC">
       <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL">
       <img src="https://img.shields.io/badge/Zod-3068B7?style=for-the-badge&logo=zod&logoColor=white" alt="Zod">
-      <br/>
+      <!-- <br/> -->
       <img src="https://img.shields.io/badge/Better_Auth-000000?style=for-the-badge&logo=betterauth&logoColor=white" alt="Better Auth">
       <img src="https://img.shields.io/badge/Auth0-EB5424?style=for-the-badge&logo=auth0&logoColor=white" alt="Auth0">
-      <br/>
+      <!-- <br/> -->
       <img src="https://img.shields.io/badge/React_Hook_Form-EC5990?style=for-the-badge&logo=reacthookform&logoColor=white" alt="React Hook Form">
     </td>
     <td align="center" width="50%" valign="top">
-      <h3>☁️ Cloud & Tools</h3>
+      <h3>☁️ Cloud & Edge Services</h3>
       <img src="https://custom-icon-badges.demolab.com/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS">
       <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="GCP">
       <img src="https://custom-icon-badges.demolab.com/badge/-Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure">
-      <br/>
+      <!-- <br/> -->
       <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase">
       <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel">
       <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloudflare">
+    </td>
+  </tr>
+  <!-- Row 3: DevOps & Tooling -->
+  <tr>
+    <td align="center" width="50%" valign="top">
+      <h3>🛠️ DevOps & Infrastructure (IaC)</h3>
+      <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform">
+      <img src="https://img.shields.io/badge/Pulumi-8A3391?style=for-the-badge&logo=pulumi&logoColor=white" alt="Pulumi">
+      <!-- <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"> -->
+      <!-- <br/> -->
       <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
+      <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions">
+      <!-- <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" alt="Ansible"> -->
+    </td>
+    <td align="center" width="50%" valign="top">
+      <h3>🧪 Testing & Modern Tooling</h3>
+      <img src="https://custom-icon-badges.demolab.com/badge/-Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" alt="Playwright">
+      <img src="https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white" alt="Vitest">
+      <!-- <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" alt="Jest"> -->
+      <!-- <br/> -->
+      <img src="https://img.shields.io/badge/Turborepo-000000?style=for-the-badge&logo=turborepo&logoColor=white" alt="Turborepo">
+      <img src="https://img.shields.io/badge/Bun-000000?style=for-the-badge&logo=bun&logoColor=white" alt="Bun">
+      <img src="https://img.shields.io/badge/pnpm-F69220?style=for-the-badge&logo=pnpm&logoColor=white" alt="pnpm">
     </td>
   </tr>
 </table>
