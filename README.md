@@ -22,7 +22,7 @@
       <h3>💻 Frontend & Mobile</h3>
       <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
       <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
-      <img src="https://img.shields.io/badge/TanStack-000000?style=for-the-badge&logo=tanstack&logoColor=white" alt="TanStack">
+      <img src="https://img.shields.io/badge/TanStack-169ab1?style=for-the-badge&logo=tanstack&logoColor=white" alt="TanStack">
       <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js">
       <!-- <br/> -->
       <img src="https://custom-icon-badges.demolab.com/badge/Zustand-211e1b?style=for-the-badge&logo=zustand3&logoColor=white" alt="Zustand">
@@ -31,8 +31,8 @@
       <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native">
       <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" alt="Expo">
       <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind">
-      <!-- <br/> -->
       <img src="https://img.shields.io/badge/Shadcn/UI-000000?style=for-the-badge&logo=shadcnui&logoColor=white" alt="Shadcn">
+      <!-- <br/> -->
       <!-- <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" alt="Framer Motion"> -->
       <!-- <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"> -->
     </td>
