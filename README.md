@@ -22,9 +22,9 @@
       <h3>💻 Frontend & Mobile</h3>
       <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
       <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
+      <img src="https://img.shields.io/badge/TanStack-000000?style=for-the-badge&logo=tanstack&logoColor=white" alt="TanStack">
       <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js">
       <!-- <br/> -->
-      <img src="https://img.shields.io/badge/TanStack_Ecosystem-000000?style=for-the-badge&logo=tanstack&logoColor=white" alt="TanStack">
       <img src="https://custom-icon-badges.demolab.com/badge/Zustand-211e1b?style=for-the-badge&logo=zustand3&logoColor=white" alt="Zustand">
       <!-- <img src="https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="Redux"> -->
       <!-- <br/> -->
@@ -65,7 +65,7 @@
       <img src="https://img.shields.io/badge/Better_Auth-000000?style=for-the-badge&logo=betterauth&logoColor=white" alt="Better Auth">
       <img src="https://img.shields.io/badge/Auth0-EB5424?style=for-the-badge&logo=auth0&logoColor=white" alt="Auth0">
       <!-- <br/> -->
-      <img src="https://img.shields.io/badge/React_Hook_Form-EC5990?style=for-the-badge&logo=reacthookform&logoColor=white" alt="React Hook Form">
+      <!-- <img src="https://img.shields.io/badge/React_Hook_Form-EC5990?style=for-the-badge&logo=reacthookform&logoColor=white" alt="React Hook Form"> -->
     </td>
     <td align="center" width="50%" valign="top">
       <h3>☁️ Cloud & Edge Services</h3>
