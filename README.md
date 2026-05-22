@@ -40,9 +40,9 @@
       <h3>⚙️ Backend & Databases</h3>
       <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
       <img src="https://img.shields.io/badge/Nest.js-ea2860?style=for-the-badge&logo=nestjs&logoColor=white" alt="Nest.js">
-      <img src="https://img.shields.io/badge/Fastify-202020?style=for-the-badge&logo=fastify&logoColor=white" alt="Fastify">
+      <!-- <img src="https://img.shields.io/badge/Fastify-202020?style=for-the-badge&logo=fastify&logoColor=white" alt="Fastify"> -->
       <!-- <br/> -->
-      <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma">
+      <!-- <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma"> -->
       <img src="https://img.shields.io/badge/Drizzle-C5F74F?style=for-the-badge&logo=drizzle&logoColor=000000" alt="Drizzle ORM">
       <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express">
       <!-- <br/> -->
