@@ -83,7 +83,7 @@
     <td align="center" width="50%" valign="top">
       <h3>🛠️ DevOps & Infrastructure (IaC)</h3>
       <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform">
-      <img src="https://img.shields.io/badge/Pulumi-8A3391?style=for-the-badge&logo=pulumi&logoColor=white" alt="Pulumi">
+      <!-- <img src="https://img.shields.io/badge/Pulumi-8A3391?style=for-the-badge&logo=pulumi&logoColor=white" alt="Pulumi"> -->
       <!-- <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"> -->
       <!-- <br/> -->
       <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
@@ -92,7 +92,7 @@
     </td>
     <td align="center" width="50%" valign="top">
       <h3>🧪 Testing & Modern Tooling</h3>
-      <img src="https://custom-icon-badges.demolab.com/badge/-Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" alt="Playwright">
+      <!-- <img src="https://custom-icon-badges.demolab.com/badge/-Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" alt="Playwright"> -->
       <img src="https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white" alt="Vitest">
       <!-- <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" alt="Jest"> -->
       <!-- <br/> -->
